@@ -1,2 +1,2 @@
-# Calaculadora-Java-Simples
+# Calculadora-Java-Simples
 Estudo
